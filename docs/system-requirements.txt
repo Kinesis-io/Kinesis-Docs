@@ -7,7 +7,7 @@ Before using Kinesis here are the hardware and software requirements:
 
   1. Windows 7 enabled PC.
 
-  2. Kinect for Windows.
+  2. Kinect for Windows or Microsoft XBOX 360 Kinect
   
 ### Software Requirements
 
