@@ -1,0 +1,6 @@
+UIVerticalScroll
+==================
+
+This is a readymade solution to vertical scrolling tiles. 
+
+Here is a walkthrough of the implementation so you can easily customize the look, feel and functionality.

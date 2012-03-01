@@ -1,0 +1,14 @@
+Installation
+============
+
+Now that you have downloaded the [Kinect for Windows SDK](http://www.microsoft.com/en-us/kinectforwindows/develop/) and [Kinesis SDK](http://kinesis.io/sdk/download), run the installer and follow the steps. 
+
+### What will be installed?
+
+  1. Native App Launcher
+  
+  2. Kinesis Simulator
+  
+  3. Sample Demos
+  
+Now you are all set to rock and roll with Kinesis.

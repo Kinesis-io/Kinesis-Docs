@@ -1,0 +1,28 @@
+Simulators
+===========
+
+Now you don't need a Kinect to start development on your project. Install our [Kinesis Simulator](http://kinesis.io/simulator/download) and you are on your way.
+
+1. Click on the ___Start Server___ button.
+
+2. Click on the ___Connect Kinect___ button.
+
+3. Refresh you browser window.
+
+### Gesture simulation ###
+![Alt Kinesis Simulator Gestures](/images/kinesis/KS-gestures.png)
+
+#### Original Position
+  Starting co-ordinates of a gesture. You can set the starting x,y and z co-ordinates and click on any gesture. This will simulate the clicked gesture with starting position as x, y, z. 
+  
+### Hand Tracking ###
+![Alt Kinesis Simulator Hand Tracking](/images/kinesis/KS-hand-tracking.png)
+
+#### The Red Ball
+  This red ball simulates the hand movement. It provides the x and y co-ordinates of the hand.
+  
+#### Depth
+  This slider adds a z co-ordinate to the hand simulation via red ball.
+  
+
+Watch our [quickstart video series](http://kinesis.io/quickstart-series) for better understanding.

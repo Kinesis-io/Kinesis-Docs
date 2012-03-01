@@ -1,0 +1,20 @@
+Requirements
+============
+
+Before using Kinesis here are the hardware and software requirements:
+
+### Hardware Requirements
+
+  1. Windows 7 enabled PC.
+
+  2. Kinect for Windows.
+  
+### Software Requirements
+
+  1. Windows 7 or above.
+
+  2. [Kinect for Windows SDK](http://www.microsoft.com/en-us/kinectforwindows/develop/)
+
+  3. [Kinesis SDK](http://kinesis.io/sdk/download)
+
+

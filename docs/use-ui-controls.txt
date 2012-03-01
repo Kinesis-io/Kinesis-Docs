@@ -1,0 +1,7 @@
+Kinesis UI Elements
+===================
+
+Here is the list of kinesis UI elements ready for use:
+
+  * <a href="ui-horizontal-scroll">UIHorizontalScroll</a>
+  * <a href="ui-vertical-scroll">UIVerticalScroll</a>

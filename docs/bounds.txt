@@ -1,0 +1,4 @@
+Bounds
+======
+
+Here we explain how we can bind a gesture to a specified area of the screen. 

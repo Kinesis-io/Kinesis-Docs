@@ -1,0 +1,53 @@
+Kinesis Constants List
+======================
+
+JointTypes
+----------
+
+  * JointTypeHandRight
+  * JointTypeWristRight
+  * JointTypeElbowRight
+  * JointTypeShoulderRight
+  * JointTypeShoulderLeft
+  * JointTypeElbowLeft
+  * JointTypeWristLeft
+  * JointTypeHandLeft
+  * JointTypeHead
+  * JointTypeSpine
+  * JointTypeHipCenter
+  * JointTypeFootRight
+  * JointTypeAnkelRight
+  * JointTypeKneeRight
+  * JointTypeFootRight
+  * JointTypeHipRight
+  * JointTypeHipLeft
+  * JointTypeKneeLeft
+  * JointTypeAnkleLeft
+  * JointTypeFootLeft
+
+You can access it like:
+     joint = JointTypes.JointTypeHandRight
+     
+GestureDirections
+-----------------
+
+  * GestureDirectionLeft
+  * GestureDirectionRight
+  * GestureDirectionUp
+  * GestureDirectionDown
+  * GestureDirectionFront
+  
+You can access it like:
+    direction = GestureDirections.GestureDirectionLeft
+    
+GestureTypes
+------------
+
+  * GestureTypeSwipe
+  * GestureTypeBody
+  * GestureTypeHold
+  * GestureTypeJointIntersection
+  * GestureTypeSpeech
+  
+You access it like:
+    gestureType = GestureTypes.GestureTypeHold

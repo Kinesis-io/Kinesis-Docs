@@ -1,0 +1,71 @@
+GIT
+  remote: git://github.com/hone/indextank-rb.git
+  revision: 61c217938b9c96f69ba0d992f80421aa0f4d5383
+  ref: 61c217938b9c96f69ba0
+  specs:
+    indextank (0.0.1)
+      faraday
+      yajl-ruby (= 0.7.7)
+
+GIT
+  remote: git://github.com/technoweenie/faraday
+  revision: 3aa840d012875ee80410e2e627f23fba3d508fa9
+  ref: 3aa840d012875ee80410
+  specs:
+    faraday (0.4.6)
+      addressable (>= 2.1.1)
+      rack (>= 1.0.1)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    addressable (2.2.2)
+    coderay (0.9.6)
+    daemons (1.1.0)
+    eventmachine (0.12.10)
+    haml (2.2.17)
+    heroku-nav (0.1.20)
+      json
+      rest-client (>= 1.0)
+    json (1.4.6)
+    mime-types (1.16)
+    newrelic_rpm (2.13.4)
+    nokogiri (1.4.4)
+    nokogirl (1.0)
+      nokogiri
+    rack (1.2.1)
+    rack-codehighlighter (0.4.7)
+      nokogiri (>= 1.4.1)
+      rack (>= 1.0.0)
+    rake (0.8.7)
+    rdiscount (1.3.5)
+    rest-client (1.2.0)
+      mime-types (>= 1.16)
+    sinatra (1.1.0)
+      rack (~> 1.1)
+      tilt (~> 1.1)
+    thin (1.2.7)
+      daemons (>= 1.0.9)
+      eventmachine (>= 0.12.6)
+      rack (>= 1.0.0)
+    tilt (1.2.1)
+    yajl-ruby (0.7.7)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  coderay
+  faraday!
+  haml (= 2.2.17)
+  heroku-nav (= 0.1.20)
+  indextank!
+  json
+  newrelic_rpm
+  nokogirl
+  rack-codehighlighter
+  rake
+  rdiscount (= 1.3.5)
+  rest-client (= 1.2.0)
+  sinatra (= 1.1.0)
+  thin (= 1.2.7)
