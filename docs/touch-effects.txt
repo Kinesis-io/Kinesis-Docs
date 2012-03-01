@@ -9,9 +9,9 @@ Microsoft IE Test Drive - Touch Effects Sample [http://ie.microsoft.com/testdriv
 
 ### Initialization code which was added to the example
 
-    <link rel="stylesheet" type="text/css" href="/lib/css/kinesis.css">
+    <link rel="stylesheet" type="text/css" href="http://cdn.kinesis.io/kinesis.css">
     <!-- js at the bottom to load the page faster -->
-    <script src="/lib/js/kinesis-js-sdk.min.js"></script>
+    <script src="http://cdn.kinesis.io/kinesis-js-sdk.min.js"></script>
     <script type="text/javascript">
 	    function movement(position)
 	    {
