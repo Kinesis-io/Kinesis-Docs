@@ -15,7 +15,7 @@ Our JavaScript development framework gives access to Gesture Recognition like ha
 
 ### Kinect Simulator
 
-Now you don't need a Kinect to start development on your project. Install our [Kinesis Simulator](http://kinesis.io/simulator/download) and you are on your way.
+Now you don't need a Kinect to start development on your project. Install our [Kinesis Simulator](/simulators) and you are on your way.
 
 Also, you can do your development on a mac using our simulator.
 

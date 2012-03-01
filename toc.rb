@@ -29,18 +29,6 @@ section 'demos', "Demos" do
 	topic 'touch-effects',  'Touch Effects'
 end
 
-section 'faq', "FAQ" do
-	topic 'faq-product-features',   'Product features'
-	topic 'faq-support'         ,   'Support'
-end
-
-section 'features', "Platform Features" do
-	topic 'logging',            'Logging'
-end
-
-section 'troubleshooting', "Troubleshooting" do
-	topic 'constraints',        'Application constraints'
-	topic 'logs-exceptions',    'Logs and exceptions'
-	topic 'performance',        'Performance'
-	topic 'error-codes',        'Error codes & Pages'
+section 'videos', "Videos" do
+  topic 'all-videos', "All Videos"
 end

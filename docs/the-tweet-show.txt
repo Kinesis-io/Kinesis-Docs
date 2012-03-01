@@ -3,6 +3,8 @@ The Tweet Show
 
 This demo is an extension of UIHorizontalScroll. Here we will demonstrate how easy it is to  modify existing UIHorizontalScroll to custom solution. 
 
+<img src="/images/kinesis/thetweetshow.png" width=800 alt="The Tweet Show Demo" />
+
 Here are steps to display twitter feeds as a gesture based slideshow. 
 
 
@@ -18,7 +20,7 @@ We fetch tweets by making a get request to twitter api. First we create some var
     
     // twitter information setup
     // twitter handle
-    twhandle    = 'blue angels';  
+    twhandle    = 'kinesisio';  
     // tweet count                                         
     twcount     = 10;        
     // user timeline                                              
@@ -184,5 +186,10 @@ STEP 4. Curate tweets
     }
 
     /* grid styles ends */
+
+Demo Video
+----------
+
+<iframe width="640" height="400" src="http://www.youtube.com/embed/bjXfxGn_v3o" frameborder="0" allowfullscreen></iframe>
 
 

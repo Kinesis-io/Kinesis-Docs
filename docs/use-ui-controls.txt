@@ -5,3 +5,7 @@ Here is the list of kinesis UI elements ready for use:
 
   * <a href="ui-horizontal-scroll">UIHorizontalScroll</a>
   * <a href="ui-vertical-scroll">UIVerticalScroll</a>
+
+### Demo Video
+
+<iframe width="640" height="400" src="http://www.youtube.com/embed/c8D2c4g6fEw" frameborder="0" allowfullscreen></iframe>

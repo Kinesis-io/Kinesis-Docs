@@ -1,0 +1,22 @@
+Videos
+======
+
+Introduction to Kinesis
+-----------------------
+
+<iframe width="640" height="400" src="http://www.youtube.com/embed/BiY_MocPLuU" frameborder="0" allowfullscreen></iframe>
+
+How to make a Kinect app under 2 minutes
+----------------------------------------
+
+<iframe width="640" height="400" src="http://www.youtube.com/embed/caQZgb0uZts" frameborder="0" allowfullscreen></iframe>
+
+Kinesis.io UI Controls Demo
+---------------------------
+
+<iframe width="640" height="400" src="http://www.youtube.com/embed/c8D2c4g6fEw" frameborder="0" allowfullscreen></iframe>
+
+The Tweet Show - Kinesis.io
+---------------------------
+
+<iframe width="640" height="400" src="http://www.youtube.com/embed/bjXfxGn_v3o" frameborder="0" allowfullscreen></iframe>

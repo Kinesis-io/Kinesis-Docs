@@ -1,2 +1,6 @@
 Mix Flicks
 ==========
+
+<img src="/images/kinesis/mixflicks.jpg" width=800 alt="Mixflicks" />
+
+### Coming soon!

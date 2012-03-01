@@ -3,6 +3,8 @@ UIHorizontalScroll
 
 This is a readymade solution to horizontal scrolling tiles. 
 
+<img src="/images/kinesis/uihorizontalscroll.png" width=800 alt="UIHorizontalScroll" />
+
 Here is a walkthrough of the implementation so you can easily customize the look, feel and functionality.
 
 
