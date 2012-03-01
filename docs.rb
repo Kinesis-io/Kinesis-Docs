@@ -2,7 +2,7 @@ require 'rubygems'
 require 'sinatra'
 require 'haml'
 require 'sass'
-require 'indextank'
+#require 'indextank'
 require './topic'
 
 #require 'heroku/nav'
@@ -48,7 +48,8 @@ end
 
 get '/' do
 	cache_long
-	haml :index
+	render_topic "kinesis"
+	#haml :kinesis
 end
 
 get '/search' do
