@@ -51,3 +51,8 @@ That's it, your app is now running on Kinesis!
   3.  You can see kinesis cursor on the screen. In the next step we will simulate hand tracking.
   
   4.  Open the Kinesis Simulator and goto ___Hand Tracking___ tab. Click on the red ball and drag it around the area. You will see our kinesis cursor moving along with the red ball.
+
+Video
+-----
+
+<iframe width="640" height="400" src="http://www.youtube.com/embed/x9tagZ8GVrA" frameborder="0" allowfullscreen></iframe>

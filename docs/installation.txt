@@ -12,3 +12,7 @@ Now that you have downloaded the [Kinect for Windows SDK](http://www.microsoft.c
   3. Sample Demos
   
 Now you are all set to rock and roll with Kinesis.
+
+###Video
+
+<iframe width="640" height="400" src="http://www.youtube.com/embed/7wqrMPMBMDU" frameborder="0" allowfullscreen></iframe>
