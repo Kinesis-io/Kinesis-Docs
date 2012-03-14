@@ -6,3 +6,8 @@ Mix Flicks
 <iframe width="640" height="400" src="http://www.youtube.com/embed/Y9PmomQooaA" frameborder="0" allowfullscreen></iframe>
 
 ### Coming soon!
+
+
+###Download
+
+[http://github.com/Kinesis-io/examples](http://github.com/Kinesis-io/examples)

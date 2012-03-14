@@ -223,7 +223,8 @@ Here are the basic styles for the scroller:
       }
       /* grid styles ends */
       
-     
 
+Download
+--------
 
-
+[http://github.com/Kinesis-io/examples](http://github.com/Kinesis-io/examples)

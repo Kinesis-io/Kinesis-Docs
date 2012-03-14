@@ -20,3 +20,8 @@ Microsoft IE Test Drive - Touch Effects Sample [http://ie.microsoft.com/testdriv
 	    kinesis = new Kinesis;
 	    Kinesis.cursor = movement;
     </script>
+    
+
+###Download
+
+[http://github.com/Kinesis-io/examples](http://github.com/Kinesis-io/examples)

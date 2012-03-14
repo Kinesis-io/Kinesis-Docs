@@ -56,3 +56,9 @@ Video
 -----
 
 <iframe width="640" height="400" src="http://www.youtube.com/embed/x9tagZ8GVrA" frameborder="0" allowfullscreen></iframe>
+
+
+Download
+--------
+
+[http://github.com/Kinesis-io/examples](http://github.com/Kinesis-io/examples)

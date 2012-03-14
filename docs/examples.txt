@@ -1,0 +1,6 @@
+Examples
+========
+
+The code for the examples can be downloaded from Github
+
+[http://github.com/Kinesis-io/examples](http://github.com/Kinesis-io/examples)

@@ -3,6 +3,7 @@ section 'getting-started', "Getting Started" do
 	topic 'system-requirements',  'System Requirements'
 	topic 'installation',         'Installation'
 	topic 'simulators',           'Simulators'
+	topic 'examples',             'Examples'
 end
 
 section 'howto', "How To" do
