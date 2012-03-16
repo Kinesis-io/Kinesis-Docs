@@ -1,0 +1,37 @@
+Cursor Tracking
+===============
+
+This is how the Kinesis Cursor looks like
+
+<img src="http://cdn.kinesis.io/hand.png" alt="Kinesis Hand" />
+
+### Call to get the current cursor position
+
+    <script src="http://cdn.kinesis.io/kinesis-js-sdk.min.js"></script>
+    <script type="text/javascript">
+      function movement(position)
+      {
+        console.info(position.x);
+        console.info(position.y);
+        console.info(position.z);
+      }
+      kinesis = new Kinesis;
+      Kinesis.cursor = movement;
+    </script>
+
+### Cursor Customization
+
+To customize the look of the Kinesis Cursor you will have to define the following CSS block
+
+    #cursor{
+      top: -200px;
+      width: 90px;
+      height: 90px;
+      left: -200px;
+      background:url(http://cdn.kinesis.io/hand.png) no-repeat center center;
+      z-index: 1140;
+      position: fixed;  
+      pointer-events:none;
+    }
+    
+Make sure not to miss out "z-index", "position: fixed" and "pointer-events:none"

@@ -14,6 +14,12 @@ section 'howto', "How To" do
 	topic 'mix-flicks',       'Make Mix-Flicks'
 end
 
+section 'api', "API" do
+  topic 'init',             'Initialization'
+  topic 'cursor',           'Cursor'
+  topic 'gestures',         'Gestures'      
+end
+
 section 'structure_details', "Structure Details" do
 	topic 'constants', 'Constants'
 	topic 'bounds', 'Bounds'

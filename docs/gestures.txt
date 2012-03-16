@@ -1,0 +1,63 @@
+Gestures
+========
+
+Gesture Recognizer - This is used to define what all events should Kinesis JS SDK listen to in order to fire custom events 
+This acts as the base class of all gesture classes.
+
+You make instance variables, customize the gesture and then start recognizing them.
+
+### SwipeGestureRecognizer 
+
+Defining a new Swipe Gesture Recognizer
+
+
+
+####Create swipe gesture
+
+"mySwipeGesture" is any name given to the variable for your reference.
+
+    var swipeGesture         = new SwipeGestureListener("mySwipeGesture");
+  
+     
+####Callback
+
+Call to action for swipe control
+    
+    swipeGesture.toFire      = swipeControl; //swipeControl is a callback method
+
+####Direction
+
+Allowed direction for gesture
+
+    swipeGesture.directions  = [GestureDirections.GestureDirectionLeft];
+    
+The supported directions are
+
+* GestureDirectionLeft
+* GestureDirectionRight
+* GestureDirectionUp
+* GestureDirectionDown
+        
+
+####Joint
+
+This is used to set the joints to be tracked for gesture
+
+    swipeGesture.joints      = [JointTypes.JointTypeHandRight];
+    
+This is an array of joints, so if you want to track a swipe gesture with both left and right hands
+
+    swipeGesture.joints      = [JointTypes.JointTypeHandRight, JointTypes.JointTypeHandLeft];
+
+The joints which are currently used for Swipes are
+
+* JointTypeHandRight
+* JointTypeHandLeft
+    
+####Bounds (Optional)
+
+This is required to specify the area where gesture tracking should be enabled. Only if the origin of a gesture is in the specified bounds, the gesture will be recognized. Values in percentage(%)
+    
+    swipeGesture.bounds      = {min: {x: 80, y: 0, z: 0}};
+    
+For more information, [read this](/bounds)
