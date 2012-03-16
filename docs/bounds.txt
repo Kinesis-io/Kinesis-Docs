@@ -3,4 +3,26 @@ Bounds
 
 Here we explain how we can bind a gesture to a specified area of the screen. 
 
-### Coming soon!
+This is required to specify the area where gesture tracking should be enabled. Only if the origin of a gesture is in the specified bounds, the gesture will be recognized. 
+
+
+Let's consider two examples. Say there are two gestures with the following bounds specified (Values in percentage(%)):
+
+    swipeGestureA.bounds      = {min: {x: 80, y: 0, z: 0}};
+    
+and 
+
+    swipeGestureB.bounds      = {max: {x: 20, y: 0, z: 0}};
+    
+
+Visually, they would look like
+
+<img src="./images/kinesis/bounds1.jpg" />
+
+So, if swipeGestureA has the direction set as "left", then this is the case when it will work.
+
+<img src="./images/kinesis/bounds2.jpg" />
+
+But, if the gesture is started outside the mentioned bounds, it will not be detected, and hence the callback function is not called.
+
+<img src="./images/kinesis/bounds3.jpg" />
