@@ -10,4 +10,4 @@ Mix Flicks
 
 ###Download
 
-[http://github.com/Kinesis-io/examples](http://github.com/Kinesis-io/examples)
+<a href="http://github.com/Kinesis-io/examples" target="_blank">http://github.com/Kinesis-io/examples</a>

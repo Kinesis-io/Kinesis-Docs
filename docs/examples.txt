@@ -3,4 +3,4 @@ Examples
 
 The code for the examples can be downloaded from Github
 
-[http://github.com/Kinesis-io/examples](http://github.com/Kinesis-io/examples)
+<a href="http://github.com/Kinesis-io/examples" target="_blank">http://github.com/Kinesis-io/examples</a>

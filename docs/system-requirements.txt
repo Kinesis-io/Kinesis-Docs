@@ -13,6 +13,6 @@ Before using Kinesis here are the hardware and software requirements:
 
   1. Windows 7 or above.
 
-  2. [Kinesis SDK](http://kinesis.io/download)
+  2. <a href="http://kinesis.io/download" target="_blank">Kinesis SDK</a>
 
 

@@ -5,7 +5,7 @@ A native development framework which enables you to write native gesture based a
 
 ### Why Kinesis?
 
-Kinesis leverages web technologies developers already know best HTML/CSS/JavaScript. So you can reuse your existing code and existing team to build gesture enabled applications on top of [Kinect for Windows SDK](http://www.microsoft.com/en-us/kinectforwindows/develop/).
+Kinesis leverages web technologies developers already know best HTML/CSS/JavaScript. So you can reuse your existing code and existing team to build gesture enabled applications on top of Kinect for Windows SDK
 
 What Phonegap does for mobile application development, Kinesis does for Kinect application development.
 

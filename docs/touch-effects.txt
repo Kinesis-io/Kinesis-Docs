@@ -5,7 +5,8 @@ How to make a Kinect app under 2 minutes:
 
 <iframe width="640" height="400" src="http://www.youtube.com/embed/o00lyeOoo3c" frameborder="0" allowfullscreen></iframe>
 
-Microsoft IE Test Drive - Touch Effects Sample [http://ie.microsoft.com/testdrive/Graphics/TouchEffects/](http://ie.microsoft.com/testdrive/Graphics/TouchEffects/)
+Microsoft IE Test Drive - Touch Effects Sample
+<a href="http://ie.microsoft.com/testdrive/Graphics/TouchEffects/" target="_blank">http://ie.microsoft.com/testdrive/Graphics/TouchEffects/</a>
 
 ### Initialization code which was added to the example
 
@@ -24,4 +25,4 @@ Microsoft IE Test Drive - Touch Effects Sample [http://ie.microsoft.com/testdriv
 
 ###Download
 
-[http://github.com/Kinesis-io/examples](http://github.com/Kinesis-io/examples)
+<a href="http://github.com/Kinesis-io/examples" target="_blank">http://github.com/Kinesis-io/examples</a>
