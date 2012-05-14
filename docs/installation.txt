@@ -15,4 +15,4 @@ Now you are all set to rock and roll with Kinesis.
 
 ###Video
 
-<iframe width="640" height="400" src="http://www.youtube.com/embed/7wqrMPMBMDU" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="400" src="http://www.youtube.com/embed/TjUBRdtlQVc" frameborder="0" allowfullscreen></iframe>

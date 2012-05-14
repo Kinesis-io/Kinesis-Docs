@@ -3,7 +3,7 @@ Touch Effects -  2 min app
 
 How to make a Kinect app under 2 minutes:
 
-<iframe width="640" height="400" src="http://www.youtube.com/embed/caQZgb0uZts" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="400" src="http://www.youtube.com/embed/o00lyeOoo3c" frameborder="0" allowfullscreen></iframe>
 
 Microsoft IE Test Drive - Touch Effects Sample [http://ie.microsoft.com/testdrive/Graphics/TouchEffects/](http://ie.microsoft.com/testdrive/Graphics/TouchEffects/)
 

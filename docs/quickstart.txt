@@ -55,7 +55,7 @@ That's it, your app is now running on Kinesis!
 Video
 -----
 
-<iframe width="640" height="400" src="http://www.youtube.com/embed/x9tagZ8GVrA" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="400" src="http://www.youtube.com/embed/qbGGNkxJ6kw" frameborder="0" allowfullscreen></iframe>
 
 
 Download

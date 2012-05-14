@@ -37,5 +37,5 @@ section 'demos', "Demos" do
 end
 
 section 'videos', "Videos" do
-  topic 'all-videos', "All Videos"
+  topic 'all-videos', 'All Videos'
 end

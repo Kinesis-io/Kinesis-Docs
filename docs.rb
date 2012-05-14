@@ -52,10 +52,8 @@ get '/' do
 	#haml :kinesis
 end
 
-get '/search' do
-  page = params[:page].to_i
-  search, prev_page, next_page = search_for(params[:q], page)
-  erb :search, :locals => {:search => search, :query => params[:q], :prev_page => prev_page, :next_page => next_page}
+get '/all-videos' do
+  redirect "http://www.youtube.com/user/kinesisio"
 end
 
 get '/:topic' do

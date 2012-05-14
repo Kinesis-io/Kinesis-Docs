@@ -21,7 +21,7 @@ Also, you can do your development on a mac using our simulator. (Coming soon)
 
 ### Native App Launcher (Coming Soon)
 
-A one-click full screen application launcher to start quick and easy. Download [http://kinesis.io/app_launcher/download]()
+A one-click full screen application launcher to start quick and easy.
 
 ### Everything You Need
 

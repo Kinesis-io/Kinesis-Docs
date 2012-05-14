@@ -4,22 +4,22 @@ Videos
 Installing Kinesis.io Service
 -----------------------------
 
-<iframe width="640" height="400" src="http://www.youtube.com/embed/7wqrMPMBMDU" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="400" src="http://www.youtube.com/embed/TjUBRdtlQVc" frameborder="0" allowfullscreen></iframe>
 
 Introduction to Kinesis
 -----------------------
 
-<iframe width="640" height="400" src="http://www.youtube.com/embed/BiY_MocPLuU" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="400" src="http://www.youtube.com/embed/Il2RGu8xV-I" frameborder="0" allowfullscreen></iframe>
 
 How to make a Kinect app under 2 minutes
 ----------------------------------------
 
-<iframe width="640" height="400" src="http://www.youtube.com/embed/caQZgb0uZts" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="400" src="http://www.youtube.com/embed/o00lyeOoo3c" frameborder="0" allowfullscreen></iframe>
 
 Hello Kinect
 ------------
 
-<iframe width="640" height="400" src="http://www.youtube.com/embed/x9tagZ8GVrA" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="400" src="http://www.youtube.com/embed/qbGGNkxJ6kw" frameborder="0" allowfullscreen></iframe>
 
 Kinesis.io UI Controls Demo
 ---------------------------

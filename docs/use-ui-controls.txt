@@ -8,4 +8,4 @@ Here is the list of kinesis UI elements ready for use:
 
 ### Demo Video
 
-<iframe width="640" height="400" src="http://www.youtube.com/embed/c8D2c4g6fEw" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="400" src="http://www.youtube.com/embed/gWncNSA1UpQ" frameborder="0" allowfullscreen></iframe>

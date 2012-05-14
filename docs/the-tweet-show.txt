@@ -190,7 +190,7 @@ STEP 4. Curate tweets
 Demo Video
 ----------
 
-<iframe width="640" height="400" src="http://www.youtube.com/embed/bjXfxGn_v3o" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="400" src="http://www.youtube.com/embed/wykn8KRMDGE" frameborder="0" allowfullscreen></iframe>
 
 
 Download

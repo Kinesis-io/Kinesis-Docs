@@ -1,7 +1,7 @@
 Simulators
 ===========
 
-Now you don't need a Kinect to start development on your project. Install our [Kinesis Simulator (http://kinesis.io/downloads/KinesisSimulator.zip)](http://kinesis.io/downloads/KinesisSimulator.zip) and you are on your way.
+Now you don't need a Kinect to start development on your project. Install our [Kinesis Simulator (http://kinesis.io/download/)](http://kinesis.io/download/) and you are on your way.
 
 1. Click on the ___Start Server___ button.
 
@@ -23,6 +23,3 @@ Now you don't need a Kinect to start development on your project. Install our [K
   
 #### Depth
   This slider adds a z co-ordinate to the hand simulation via red ball.
-  
-
-Watch our [quickstart video series](http://kinesis.io/quickstart-series) for better understanding.
