@@ -1,4 +1,4 @@
-Touch Effects -  2 min app
+Touch Effects 2 min app
 ==========================
 
 How to make a Kinect app under 2 minutes:

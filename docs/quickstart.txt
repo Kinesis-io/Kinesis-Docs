@@ -1,5 +1,5 @@
-Kinesis Quickstart - Hello Kinect
-=======================
+Kinesis Quickstart Hello Kinect
+=================================
 
 Let's walk through creating your first application, Hello Kinect. 
 
