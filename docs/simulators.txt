@@ -1,19 +1,59 @@
 Simulators
 ===========
 
+Mac OS X Simulator
+------------------
+
+#### Video
+
+<iframe width="640" height="400" src="http://www.youtube.com/embed/EiK4EF1Cnaw" frameborder="0" allowfullscreen></iframe>
+
+![Alt Kinesis Simulator Hand Tracking](/images/kinesis/KS-mac-hand-tracking.png)
+
+![Alt Kinesis Simulator Hand Tracking](/images/kinesis/KS-mac-gestures.png)
+
+#### System Requirements
+
+  Snow Leopard (Mac OS X 10.6)<br />
+  Lion (Mac OS X 10.7)
+
+
+#### Check for Updates
+
+The Mac OS X Simulator can check for updates and can be directly updated.
+
+Windows Simulator
+-----------------
+
+![Alt Kinesis Simulator Gestures](/images/kinesis/KS-gestures.png)
+  
+![Alt Kinesis Simulator Hand Tracking](/images/kinesis/KS-hand-tracking.png)
+
+#### System Requirements
+
+  Microsoft Windows 7
+
+#### Check for Updates
+
+Updates to the Simulator need to done manually for now.
+
+Usage
+-----
+
 Now you don't need a Kinect to start development on your project. Install our <a href="http://kinesis.io/download" target="_blank">Kinesis Simulator (http://kinesis.io/download)</a> and you are on your way.
 
 1. Click on the ___Start Server___ button.
 
 2. Click on the ___Connect Kinect___ button.
 
-3. Refresh you browser window.
+3. Refresh the browser window.
 
 ### Gesture simulation ###
-![Alt Kinesis Simulator Gestures](/images/kinesis/KS-gestures.png)
 
-#### Original Position
+#### Original Position (Bounds)
   Starting co-ordinates of a gesture. You can set the starting x,y and z co-ordinates and click on any gesture. This will simulate the clicked gesture with starting position as x, y, z. 
+
+![Alt Kinesis Simulator Gestures](/images/kinesis/KS-gestures.png)
   
 ### Hand Tracking ###
 ![Alt Kinesis Simulator Hand Tracking](/images/kinesis/KS-hand-tracking.png)
@@ -22,4 +62,5 @@ Now you don't need a Kinect to start development on your project. Install our <a
   This red ball simulates the hand movement. It provides the x and y co-ordinates of the hand.
   
 #### Depth
-  This slider adds a z co-ordinate to the hand simulation via red ball.
+  This slider adds a z co-ordinate to the hand simulation via red ball.<br /><br /> To use it, just set a particular depth and move the red ball to send the new depth position along with position co-ordinates
+
