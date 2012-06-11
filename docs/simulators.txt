@@ -52,6 +52,10 @@ Now you don't need a Kinect to start development on your project. Install our <a
 
 #### Original Position (Bounds)
   Starting co-ordinates of a gesture. You can set the starting x,y and z co-ordinates and click on any gesture. This will simulate the clicked gesture with starting position as x, y, z. 
+  
+  For example: if you set x: 80 and press SwipeLeft with the Right Hand, it would simulate the SwipeLeft gesture originating on the right hand side of the screen.
+  
+  For more details visit : <a href="/bounds">Bounds Explained</a>
 
 ![Alt Kinesis Simulator Gestures](/images/kinesis/KS-gestures.png)
   
