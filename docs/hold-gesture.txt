@@ -1,0 +1,60 @@
+Simulate Mouse Click Via Hold Gesture
+=====================================
+
+Kinesis.io also allows us to very easily simulate ___'onclick'___ event via a hand hold gesture.
+
+### Just add 'interactive' class to an element
+
+To make an element interactive we simply need to use a class ___'interactive'___. 
+
+When we hold our hand over any element with 'interactive' class, the 'onclick' event for its parent is fired.
+
+Let me walk you through this with our demo ImageBox:
+
+### Prerequisites
+
+You have included the kinesis CSS, kinesis JS and initialized kinesis as outlines in the tutorials before.
+
+### Demo
+
+Here we have a bunch of images, each wrapped around an anchor tag which opens up the image as a modal window. We have used fancybox plugin for pop-ups.
+
+    <div id="content">
+      <a class="grouped_elements" rel="group1" href="images/1_b.jpg">
+        <img src="images/1_b.jpg" alt="" class="interactive" />
+      </a>
+      <a class="grouped_elements" rel="group1" href="images/2_b.jpg">
+        <img src="images/2_b.jpg" alt="" class="interactive"/>
+      </a> 	
+      <a class="grouped_elements" rel="group1" href="images/5_b.jpg">
+        <img src="images/5_b.jpg" alt="" class="interactive"/>
+      </a> 
+      <a class="grouped_elements" rel="group1" href="images/4_b.jpg">
+        <img src="images/4_b.jpg" alt="" class="interactive"/>
+      </a>
+    </div>
+
+As you can see we have added 'interactive' class to all the images.
+
+That's it!!!
+
+Now, whenever you hold your hand over any image you can see a feedback circle loading and consequently the onclick for the link is fired and we see an image pop-up.
+
+<img src="./images/kinesis/imagebox-demo1.png" />
+
+Now we have also made the fancybox close link to be interactive. To do this we did the following:
+
+    $("a.grouped_elements").fancybox( {
+      'onComplete' : function(){
+        // gesturize the close link by inserting a interactive child inside the close link
+        $("#fancybox-close").append("<label class='interactive'></label>"); 
+      }
+    }); // initialize fancybox
+    
+You can simply hold you hand over the close link to close the fancybox.
+
+<img src="./images/kinesis/imagebox-demo2.png" />
+
+
+
+

@@ -18,6 +18,7 @@ section 'api', "API" do
   topic 'init',             'Initialization'
   topic 'cursor',           'Cursor'
   topic 'gestures',         'Gestures'      
+  topic 'hold-gesture',     'Simulate Mouse Click'
 end
 
 section 'structure_details', "Structure Details" do
