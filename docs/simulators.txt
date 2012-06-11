@@ -37,8 +37,8 @@ Windows Simulator
 
 Updates to the Simulator need to done manually for now.
 
-Usage
------
+How to use it
+-------------
 
 Now you don't need a Kinect to start development on your project. Install our <a href="http://kinesis.io/download" target="_blank">Kinesis Simulator (http://kinesis.io/download)</a> and you are on your way.
 
