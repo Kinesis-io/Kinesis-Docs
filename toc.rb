@@ -40,3 +40,7 @@ end
 section 'videos', "Videos" do
   topic 'all-videos', 'All Videos'
 end
+
+section 'Troubleshoot', "Troubleshoot" do
+  topic 'faq', "FAQ"
+end

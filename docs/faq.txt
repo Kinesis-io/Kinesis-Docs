@@ -1,0 +1,83 @@
+FAQ
+===
+
+The following points might help if you are facing an issue using/setting up the Kinesis SDK :
+
+Where can I download the examples?
+----------------------------------
+
+Download from our Github repository at Kinesis Repository : <a href="https://github.com/Kinesis-io/examples">https://github.com/Kinesis-io/examples</a>
+
+The Kinesis hand cursor is not visible in the application
+---------------------------------------------------------
+
+- Make sure you have included the Kinesis.io default CSS file:
+
+<link rel="stylesheet" type="text/css" href="http://cdn.kinesis.io/kinesis.css">
+
+- If you have included the file, make sure you are not using a style called "#cursor" is your own CSS file.
+Added Interactive class to an element, but the onclick event is not working?
+To make an element interactive, the interactive class is to be added to the parent item of the element to be clicked.
+
+
+Application is not working with Xbox Kinect
+-------------------------------------------
+
+- Make sure to download the correct SDk for your Kinect. We provide 2 types of SDK packages - Xbox Kinect and - Kinect for Windows.
+Use the right SDk for your Kinect sensor to work with your application.
+Donwload Xbox Kinect package: Download 
+
+- Check: XBOX Kinect is connected via the USB port and is turned on.
+
+- If it is connected, press the Windows Key + R to open the Run window.
+  
+  Type services.msc to open the "Services" window and check if Kinesis.io_service service is running.
+
+- Make sure that the Kinesis Simulator is NOT running.
+
+If you still have problems, please drop us a line at support[at]kinesis.io.
+
+Application is not working with Kinect for Windows
+--------------------------------------------------
+
+- Make sure to download the correct SDK for your Kinect. We provide 2 types of SDK packages - Xbox Kinect and - Kinect for Windows.
+Use the right SDk for your Kinect sensor to work with your application.
+Donwload Kinect for Windows package: Download 
+
+- Check: Kinect for Windows is connected via the USB port and is turned on.
+
+- If it is connected, press the Windows Key + R to open the Run window.
+Type services.msc to open the "Services" window and check if Kinesis.io_service service is running.
+
+- Make sure that the Kinesis Simulator is NOT running.
+
+If you still have problems, please drop us a line at support[at]kinesis.io.
+
+How to check the Kinect Status from firebug?
+--------------------------------------------
+
+- Open Firebug Console in Google Chrome or Firefox.
+- Check if Kinesis JS SDK is included in your HTML file:
+
+&lt;script type=&quot;text/javascript&quot; src=&quot;http://cdn.kinesis.io/kinesis-js-sdk.min.js&quot;&gt;&lt;/script&gt;
+
+- Add following to your code:
+
+&lt;script type=&quot;text/javascript&quot;&gt; Kinesis.debug = true; &lt;/script&gt;
+
+- Try disconnecting/reconnecting the Kinect via USB or turning it off/on. You will be able to see the status change event being recorded in the console.
+
+If you still have problems, please drop us a line at support[at]kinesis.io
+
+
+Simulator does not work
+-----------------------
+
+- Kinesis SDK is installed
+- Make sure the Kinect sensor is not connected to the system
+- .Net framework version 4 or above is installed
+
+Missing feature
+---------------
+
+If you cant find something specific, feel free to connect: founders@kinesis.io
